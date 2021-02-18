@@ -15,19 +15,19 @@ This example is the 3rd part of GetX tutorial series that contains the following
 - Working with List view items (Custom component)
 - Adding icons buttons (Bonus)
 
-🎥  Watch the tutorial video in Youtube: https://youtu.be/kZshnobUQLA
+Watch the tutorial video in Youtube: https://youtu.be/kZshnobUQLA
 
 - Flutter GetX Package: https://pub.dev/packages/get
 - Flutter Dio Package: https://pub.dev/packages/dio
 - API Example:  https://jsonplaceholder.typicode.com
 - Json to Dart Converter:  https://javiercbk.github.io/json_to_dart
 
-🎥  Watch previous parts:
+Watch previous parts:
 
 1. Flutter GetX - Project Scaffolding: https://youtu.be/TbSSNd2ZevU
 2. Flutter GetX - Bottom Navigation Bar: https://youtu.be/G9EnOCpuCrw
 
-🖥  Previous parts source codes:
+Previous parts source codes:
 
 1. Flutter GetX - Project Scaffolding: https://github.com/TeamArtisansDev/flutter-getx-scaffolding-example
 2. Flutter GetX - Bottom Navigation Bar: https://github.com/TeamArtisansDev/flutter-getx-bottom-navigation-example
