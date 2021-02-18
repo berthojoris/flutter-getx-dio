@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/d1bp9zpL/part-2.png)
+![](https://i.postimg.cc/50KvnLJb/Flutter-Get-X-Fetching-API-using-Dio.png)
 
 # Flutter Getx - Fetching API Data using Dio
 
