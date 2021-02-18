@@ -1,31 +1,42 @@
 ![](https://i.postimg.cc/d1bp9zpL/part-2.png)
 
-# Flutter Getx - Bottom Navigation Bar Example
+# Flutter Getx - Fetching API Data using Dio
 
-In this example, we made a bottom navigation bar using GetX state management, we tried to write less code and separate the logics used.
+In this example I used Flutter Dio package to fetch API data from server with the help of GetX state management.
 
-This example is the second part of the Flutter GetX video series we have covered the following titles:
+This example is the 3rd part of GetX tutorial series that contains the following titles:
 
-- Creating pages and GetX controllers
-- Creating BottomNavigationBar
-- Using GetBuilder widget
-- Using controller parameters inside page
-- A small counter (Bonus)
+- Adding Dio package to the app
+- Creating a reusable API request class
+- Making dart model from json
+- Fetching API data
+- Changing API json data to dart model list
+- Creating a list view
+- Working with List view items (Custom component)
+- Adding icons buttons (Bonus)
 
-Watch the tutorial video in Youtube: https://youtu.be/G9EnOCpuCrw
+🎥  Watch the tutorial video in Youtube: https://youtu.be/kZshnobUQLA
 
-Read Medium article: https://medium.com/teamartisans/bottom-navigation-bar-in-flutter-using-getx-a59f274b616c
+Flutter GetX Package: https://pub.dev/packages/get
+Flutter Dio Package: https://pub.dev/packages/dio
+API Example:  https://jsonplaceholder.typicode.com
+Json to Dart Converter:  https://javiercbk.github.io/json_to_dart
 
+🎥  Watch previous parts:
 
-Video Part 1: https://www.youtube.com/watch?v=TbSSNd2ZevU
+1. Flutter GetX - Project Scaffolding: https://youtu.be/TbSSNd2ZevU
+2. Flutter GetX - Bottom Navigation Bar: https://youtu.be/G9EnOCpuCrw
 
-Example Part 1: https://github.com/TeamArtisansDev/flutter-getx-scaffolding-example
+🖥  Previous parts source codes:
+
+1. Flutter GetX - Project Scaffolding: https://github.com/TeamArtisansDev/flutter-getx-scaffolding-example
+2. Flutter GetX - Bottom Navigation Bar: https://github.com/TeamArtisansDev/flutter-getx-bottom-navigation-example
 
 
 ## Getting Started
 
-- Clone the repository `git clone git@github.com:TeamArtisansDev/flutter-getx-bottom-navigation-example.git`
-- Navigate to cloned folder `cd flutter-getx-bottom-navigation-example`
+- Clone the repository `git clone git@github.com:TeamArtisansDev/flutter-getx-api-dio-example.git`
+- Navigate to cloned folder `cd flutter-getx-api-dio-example`
 - Get packages using `flutter pub get`
 - Run `flutter run`
 
