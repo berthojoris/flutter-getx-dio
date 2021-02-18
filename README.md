@@ -17,10 +17,10 @@ This example is the 3rd part of GetX tutorial series that contains the following
 
 🎥  Watch the tutorial video in Youtube: https://youtu.be/kZshnobUQLA
 
-Flutter GetX Package: https://pub.dev/packages/get
-Flutter Dio Package: https://pub.dev/packages/dio
-API Example:  https://jsonplaceholder.typicode.com
-Json to Dart Converter:  https://javiercbk.github.io/json_to_dart
+- Flutter GetX Package: https://pub.dev/packages/get
+- Flutter Dio Package: https://pub.dev/packages/dio
+- API Example:  https://jsonplaceholder.typicode.com
+- Json to Dart Converter:  https://javiercbk.github.io/json_to_dart
 
 🎥  Watch previous parts:
 
