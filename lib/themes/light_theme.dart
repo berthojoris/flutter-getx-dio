@@ -15,11 +15,17 @@ ThemeData lightTheme = ThemeData(
   appBarTheme: AppBarTheme(
     color: Colors.white,
     elevation: 0,
-    textTheme: TextTheme(
+    toolbarTextStyle: TextTheme(
       headline6: TextStyle(
         color: Colors.black,
         fontSize: 20,
       ),
-    ),
+    ).bodyText2,
+    titleTextStyle: TextTheme(
+      headline6: TextStyle(
+        color: Colors.black,
+        fontSize: 20,
+      ),
+    ).headline6,
   ),
 );
